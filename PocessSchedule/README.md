@@ -5,13 +5,21 @@
 ### How to run
 
 1-  Choose the scheduler type from the menu. 
+
 2-  Enter process number, ie (1 is equivalent to “P1”) , (2 is equivalent to “P2”) and so on 
+
 3-  Enter the burst time for the process.
+
 4-  Enter priority if needed.
+
 5-  Enter arrival time of the process.
+
 6-  Enter Quantum time if the scheduler is “Round-Roben”.
+
 7-  Click on (Add Process) button to add this process.
+
 8-  For each process follow the steps shown above.<br/>Note: You are allowed to add any number of processes.
+
 9-  After adding the processes, click on (Simulate) button to display the (Gantt Chart)
 
 **Note**
