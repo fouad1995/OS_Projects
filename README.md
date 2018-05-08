@@ -1,2 +1,2 @@
 # OS_Projects
-All the operating systems course projects
+All the operating systems course projects.
