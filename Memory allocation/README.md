@@ -1,5 +1,5 @@
 **Memory allocation Simulator**
-<br \>
+
 
 Memory allocation simulator handles only three types of memory allocation algorithms
 * First fit.
